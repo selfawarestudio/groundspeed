@@ -1,0 +1,13 @@
+{
+  "name": "groundspeed",
+  "version": "1.0.1",
+  "description": "A flexible Tailwind preset",
+  "main": "index.js",
+  "author": "Mike Wagz",
+  "license": "MIT",
+  "homepage": "https://github.com/selfawarestudio/groundspeed",
+  "repository": "selfawarestudio/groundspeed",
+  "scripts": {
+    "dev": "npx @estrattonbailey/scratch index.js"
+  }
+}
